@@ -1,0 +1,442 @@
+{
+  "nav": {
+    "entreprises": "Entreprises",
+    "projets": "Projets Spéciaux",
+    "agentsIA": "Agents IA",
+    "active": "Active™",
+    "elvara": "Elvara",
+    "familles": "Familles",
+    "club": "Club",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Paris · Monaco · Dubaï · Montréal",
+      "title": "L'image, l'intelligence et la structure.",
+      "subtitle": "Au service d'une présence qui compte.",
+      "body": "CerfLand Media n'est pas une agence de communication au sens ordinaire du terme. C'est une maison de direction créative, de production cinématographique et de systèmes intelligents conçue pour construire des présences plus fortes, plus lisibles, plus durables et plus maîtrisées.",
+      "cta": "Parlons de votre présence",
+      "cta2": "Découvrir nos pôles"
+    },
+    "position": {
+      "heading": "Nous ne cherchons pas à produire plus de bruit.",
+      "body": "Certaines entreprises ont besoin de visibilité. D'autres ont besoin de tenue, d'autorité, de cohérence et d'un langage capable de porter leur niveau réel. C'est précisément à cet endroit que nous intervenons.",
+      "sub": "CerfLand Media construit des actifs, des films, des systèmes et des dispositifs de continuité capables de mieux faire lire une marque, mieux faire comprendre sa valeur, mieux faire tenir son niveau.",
+      "signature": "— Notre position"
+    },
+    "poles": {
+      "heading": "Nos pôles",
+      "subtitle": "Un écosystème complet au service de votre présence",
+      "items": [
+        {
+          "title": "Entreprises",
+          "desc": "Pour les structures qui ont besoin d'une présence plus juste, plus lisible et plus structurée.",
+          "icon": "◈"
+        },
+        {
+          "title": "Projets Spéciaux",
+          "desc": "Pour les films, campagnes et productions rares qui exigent plus qu'une exécution ordinaire.",
+          "icon": "◇"
+        },
+        {
+          "title": "Agents IA",
+          "desc": "Pour les structures qui veulent transformer l'IA en capacité opérationnelle réelle et gouvernée.",
+          "icon": "◉"
+        },
+        {
+          "title": "Active™",
+          "desc": "Cartes NFC, supports connectés et points de contact intelligents.",
+          "icon": "◎"
+        },
+        {
+          "title": "Elvara",
+          "desc": "Éditions de mémoire, de portrait et de présence conçues comme des objets rares.",
+          "icon": "◆"
+        },
+        {
+          "title": "Familles",
+          "desc": "Souvenirs, transmissions et contextes éducatifs qui méritent tact et dignité.",
+          "icon": "◫"
+        },
+        {
+          "title": "Club CerfLand",
+          "desc": "Le cercle sélectif. Un écosystème de relation, de confiance et de niveau.",
+          "icon": "◐"
+        }
+      ]
+    },
+    "method": {
+      "heading": "Notre manière de travailler",
+      "body": "Chaque mission commence par une lecture sérieuse. Avant de produire, nous cherchons à comprendre ce qui doit être protégé, clarifié, élevé, mis en système, et ce qui doit rester discret. Ensuite seulement, nous construisons la forme juste.",
+      "cta": "Commencer un échange"
+    },
+    "cta": {
+      "heading": "Parlons de ce que votre présence doit réellement produire.",
+      "body": "Pas une démonstration. Pas un discours de vente. Un échange clair, pour comprendre votre situation, votre niveau d'exigence et la forme juste.",
+      "primary": "Écrire à CerfLand",
+      "secondary": "Voir nos pôles",
+      "email": "hello@cerfland.fr",
+      "phone": "+33 6 95 61 79 48"
+    }
+  },
+  "entreprises": {
+    "hero": {
+      "tagline": "Entreprises",
+      "title": "Des actifs de marque. Des systèmes utiles. Une présence qui tient.",
+      "subtitle": "Une entreprise n'a pas seulement besoin d'être visible. Elle a besoin d'être lisible, crédible, cohérente et continuellement soutenue."
+    },
+    "forWho": {
+      "heading": "Pour qui",
+      "items": [
+        "Maisons & marques",
+        "Cabinets & hôtels",
+        "Immobilier premium",
+        "Retail & hospitality",
+        "Dirigeants en repositionnement",
+        "Structures à forte exigence"
+      ]
+    },
+    "problem": {
+      "heading": "Nous intervenons là où le simple « faire plus » ne suffit plus.",
+      "items": [
+        {
+          "title": "La marque paraît en dessous de son niveau réel",
+          "desc": "L'image existe, mais sans réelle autorité ni cohérence."
+        },
+        {
+          "title": "Les messages sont dispersés",
+          "desc": "Les supports ne travaillent pas ensemble. La continuité dépend de l'urgence."
+        },
+        {
+          "title": "La communication ne crée pas de valeur cumulative",
+          "desc": "Beaucoup d'activité visible, mais pas de présence qui s'installe."
+        }
+      ]
+    },
+    "pricing": {
+      "heading": "Formules",
+      "note": "Tous les prix sont exprimés HT. Monaco / Côte d'Azur / contextes premium.",
+      "tiers": [
+        {
+          "name": "L'Étincelle",
+          "price": "2 500",
+          "period": "€ HT / mois",
+          "commit": "Engagement : 3 mois",
+          "desc": "Pour poser une présence propre, crédible et bien orientée.",
+          "features": [
+            "Cadrage initial & lecture de situation",
+            "Direction de présence & cap de langage",
+            "Cohérence de base & rythme de pilotage",
+            "Accompagnement léger mais sérieux"
+          ]
+        },
+        {
+          "name": "Le Récit",
+          "price": "5 500",
+          "period": "€ HT / mois",
+          "commit": "Engagement : 6 mois",
+          "desc": "Pour construire une présence plus dense, plus cohérente.",
+          "features": [
+            "Direction plus forte & architecture complète",
+            "Travail poussé sur le récit de marque",
+            "Continuité éditoriale ou structurelle",
+            "Pilotage régulier & coordination des actifs"
+          ]
+        },
+        {
+          "name": "Le Prestige",
+          "price": "10 500",
+          "period": "€ HT / mois",
+          "commit": "Engagement : 6 mois",
+          "desc": "Pour les structures établies à la hauteur de leur positionnement.",
+          "features": [
+            "Direction plus noble & intensité d'exécution supérieure",
+            "Actifs plus ambitieux & perception plus claire",
+            "Coordination forte entre les couches",
+            "Continuité capable de soutenir une image premium"
+          ],
+          "highlighted": true
+        },
+        {
+          "name": "L'Empire",
+          "price": "18 000",
+          "period": "€ HT / mois",
+          "commit": "Engagement : 12 mois",
+          "desc": "Pour les maisons, groupes et structures de très haut niveau.",
+          "features": [
+            "Capacité renforcée & cadre plus étroit",
+            "Direction centrale & intensité d'exécution forte",
+            "Discrétion supérieure & logique d'expansion",
+            "Présence traitée comme une fonction stratégique"
+          ]
+        }
+      ]
+    }
+  },
+  "projetsSpeciaux": {
+    "hero": {
+      "tagline": "Projets Spéciaux",
+      "title": "Quand une marque, un lieu ou un moment mérite plus que l'ordinaire.",
+      "subtitle": "Certains projets ne relèvent pas d'une communication courante. Ils demandent une autre densité, une autre précision, une autre portée symbolique."
+    },
+    "pricing": {
+      "heading": "Formats publics de référence",
+      "tiers": [
+        {
+          "name": "Cinema Spot 30s",
+          "price": "12 000",
+          "period": "€ HT",
+          "desc": "Lecture stratégique, concept, production, postproduction, livraison finale.",
+          "features": [
+            "Lecture stratégique & concept",
+            "Écriture & préparation",
+            "Production ou génération",
+            "Postproduction & livraison"
+          ]
+        },
+        {
+          "name": "Cinema Spot 60s",
+          "price": "18 000",
+          "period": "€ HT",
+          "desc": "Pour les projets qui ont besoin de plus d'espace narratif.",
+          "features": [
+            "Univers plus posé",
+            "Tension plus mémorable",
+            "Postproduction avancée",
+            "Livraison multi-formats"
+          ]
+        },
+        {
+          "name": "Manifesto Film 3–5min",
+          "price": "35 000",
+          "period": "€ HT",
+          "desc": "Un film de référence pour donner une colonne vertébrale visible.",
+          "features": [
+            "Film signature de marque",
+            "Direction artistique complète",
+            "Postproduction cinématique",
+            "Archive Vault incluse"
+          ],
+          "highlighted": true
+        },
+        {
+          "name": "Grand Format 3D 30s",
+          "price": "22 000",
+          "period": "€ HT",
+          "desc": "Pour un impact sculptural, distinctif et spectaculaire sans vulgarité.",
+          "features": [
+            "3D haute définition",
+            "Impact visuel exceptionnel",
+            "Production sur mesure",
+            "Livraison broadcast"
+          ]
+        }
+      ]
+    }
+  },
+  "agentsIA": {
+    "hero": {
+      "tagline": "Agents IA",
+      "title": "Une intelligence opérée. Reliée au réel. Gouvernée avec précision.",
+      "subtitle": "Chez CerfLand Media, un Agent IA n'est pas un gadget conversationnel. C'est un système scénarisé, connecté, gouverné et maintenu."
+    },
+    "whatIs": {
+      "heading": "Pas un chatbot. Un système.",
+      "points": [
+        "Il connaît son rôle, ses limites, son ton et ses règles",
+        "Il qualifie, oriente, filtre, répond et déclenche des actions",
+        "Il s'intègre dans une architecture réelle : site, WhatsApp, CRM, agenda",
+        "Il transmet à l'humain lorsque c'est nécessaire",
+        "Il ne prétend pas remplacer le jugement humain"
+      ]
+    },
+    "pricing": {
+      "heading": "Formules",
+      "tiers": [
+        {
+          "name": "Micro-Agent",
+          "price": "990",
+          "period": "€ HT / mois",
+          "commit": "Engagement : 6 mois",
+          "desc": "Pour une mission parfaitement définie.",
+          "features": [
+            "FAQ vivante & qualification simple",
+            "Prise de rendez-vous basique",
+            "Intégration simple & tests",
+            "Suivi initial & amélioration"
+          ]
+        },
+        {
+          "name": "Standard Agent",
+          "price": "2 500",
+          "period": "€ HT / mois",
+          "commit": "Engagement : 12 mois",
+          "desc": "Pour trois missions reliées entre elles.",
+          "features": [
+            "Architecture sérieuse & logique de décision",
+            "Intégration CRM / Email / Agenda",
+            "Ton contrôlé & gouvernance",
+            "Soulagement opérationnel réel"
+          ]
+        },
+        {
+          "name": "Complete System",
+          "price": "6 500",
+          "period": "€ HT / mois",
+          "commit": "Engagement : 12 mois",
+          "desc": "Pour un écosystème complet.",
+          "features": [
+            "Front door concierge & qualification",
+            "Agenda, support, réputation, routage",
+            "Monitoring & ajustements continus",
+            "Gouvernance complète"
+          ],
+          "highlighted": true
+        },
+        {
+          "name": "24/7 Enterprise",
+          "price": "12 000",
+          "period": "€ HT / mois",
+          "commit": "Engagement : 12 mois",
+          "desc": "Pour les contextes à volume élevé et forte sensibilité.",
+          "features": [
+            "Hospitality premium & immobilier",
+            "Disponibilité continue 24/7",
+            "Audit réel & scénarisation",
+            "SLA & reporting mensuel"
+          ]
+        }
+      ]
+    }
+  },
+  "elvara": {
+    "hero": {
+      "tagline": "Elvara",
+      "title": "Le pôle rare de mémoire, de portrait et d'objet émotionnel.",
+      "subtitle": "Ni gadget. Ni album ordinaire. Une édition composée de présence."
+    },
+    "editions": {
+      "heading": "Nos éditions",
+      "items": [
+        {
+          "season": "Hiver",
+          "theme": "Permanence",
+          "date": "Janvier 2025",
+          "desc": "Sur ce qui reste quand tout le reste disparaît. Mémoire, lieux, langages du silence."
+        },
+        {
+          "season": "Printemps",
+          "theme": "Seuil",
+          "date": "Avril 2025",
+          "desc": "Passages, commencements, ruptures. Ce que signifie vraiment commencer quelque chose."
+        },
+        {
+          "season": "Été",
+          "theme": "Lumière",
+          "date": "Juillet 2025",
+          "desc": "Ce que la lumière révèle — dans la photographie, l'architecture, la pensée et le corps."
+        },
+        {
+          "season": "Automne",
+          "theme": "Profondeur",
+          "date": "Octobre 2025",
+          "desc": "Contre l'urgence et la superficie. Éloge de ce qui prend du temps et tient sur la durée."
+        }
+      ]
+    }
+  },
+  "familles": {
+    "hero": {
+      "tagline": "Familles & Éducation",
+      "title": "Les souvenirs et les transmissions qui méritent tact, cadre et dignité.",
+      "subtitle": "Le pôle dédié aux trajectoires d'enfance, aux structures éducatives et aux contextes de mémoire qui exigent plus que l'ordinaire."
+    }
+  },
+  "club": {
+    "hero": {
+      "tagline": "Club CerfLand",
+      "title": "Le cercle sélectif.",
+      "subtitle": "Pas une communauté ouverte. Un écosystème de relation, de confiance et de niveau."
+    },
+    "tiers": {
+      "heading": "Niveaux de membership",
+      "items": [
+        {
+          "name": "Membre Associé",
+          "price": "390",
+          "period": "/ mois",
+          "desc": "Entrée dans le cercle. Accès aux événements et ressources membres.",
+          "features": [
+            "Accès aux événements Club (4/an)",
+            "Réseau membres en ligne",
+            "Newsletter mensuelle exclusive",
+            "Tarifs préférentiels sur les services CerfLand"
+          ]
+        },
+        {
+          "name": "Membre Actif",
+          "price": "890",
+          "period": "/ mois",
+          "desc": "Pour les membres qui veulent participer activement à l'écosystème.",
+          "features": [
+            "Tout le niveau Associé",
+            "Accès aux masterclasses (8/an)",
+            "Visibilité dans l'annuaire membres",
+            "1 session stratégique CerfLand / trimestre",
+            "Accès aux projets collaboratifs"
+          ],
+          "highlighted": true
+        },
+        {
+          "name": "Membre Fondateur",
+          "price": "Sur invitation",
+          "period": "",
+          "desc": "Engagement sur 12 mois négocié hors plateforme.",
+          "features": [
+            "Tout le niveau Actif",
+            "Siège au Conseil consultatif",
+            "Accès à tous les événements et coulisses",
+            "Co-création de projets CerfLand",
+            "Visibilité partenaire sur tous les supports"
+          ]
+        }
+      ]
+    }
+  },
+  "contact": {
+    "heading": "Parlons.",
+    "subheading": "Un échange clair, pour comprendre votre situation, votre niveau d'exigence et la forme juste.",
+    "email_label": "Email",
+    "phone_label": "Téléphone",
+    "address_label": "Siège",
+    "address": "Nice, 470 promenade des Anglais, 06200",
+    "response": "Délai de réponse : 24 heures ouvrées",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "company": "Entreprise (optionnel)",
+      "subject": "Objet de la demande",
+      "message": "Votre message",
+      "send": "Envoyer",
+      "sending": "Envoi en cours…",
+      "success": "Message reçu. Nous vous répondons sous 24h.",
+      "error": "Une erreur est survenue. Merci de réessayer."
+    },
+    "subjects": [
+      "Pôle Entreprises",
+      "Projet Spécial",
+      "Agent IA",
+      "CerfLand Active™",
+      "Elvara",
+      "Familles & Éducation",
+      "Club CerfLand",
+      "Autre"
+    ]
+  },
+  "footer": {
+    "tagline": "L'image, l'intelligence et la structure.",
+    "address": "Nice, 470 promenade des Anglais, 06200",
+    "presence": "Paris · Monaco · Dubaï · Montréal",
+    "rights": "© 2025 CerfLand Media. Tous droits réservés."
+  }
+}
